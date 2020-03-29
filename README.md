@@ -1,4 +1,4 @@
-# EspressoTests
+# EspressoTests Com Versão nova do Aplicativo
 
 Esse projeto é para os analistas de Testes Utilizarem o Espresso Android Test.
 
